@@ -10,3 +10,11 @@ This hack is in the form of a tweak written with Logos instructions to be compil
 The header provided was dumped from the game executable and should be included in the project (currently
 there is no include in the code because CDStructures.h was in my 'theos/include' folder. But you may include
 it as you will).
+
+***************************
+
+Compiled tweak can be downloaded from my repo:
+cydia.myrepospace.com/GNSPS
+
+contact:
+goncalo05[at]gmail.com
