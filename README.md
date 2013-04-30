@@ -14,7 +14,7 @@ it as you will).
 ***************************
 
 Compiled tweak can be downloaded from my repo:
-cydia.myrepospace.com/GNSPS
+http://cydia.myrepospace.com/GNSPS/
 
 contact:
 goncalo05[at]gmail.com
