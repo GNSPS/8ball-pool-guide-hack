@@ -1,6 +1,8 @@
 8 Ball Pool Guide Hack
 ======================
 
+[![Join the chat at https://gitter.im/GNSPS/8ball-pool-guide-hack](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/GNSPS/8ball-pool-guide-hack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hack for iOS game 8 Ball Pool that extends the visual guide aid of the game endlessly.
 
 ***************************
